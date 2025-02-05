@@ -1,6 +1,6 @@
 # stepik_aqa_selenium_python
 
-
+Random text
 
 ## Getting started
 
